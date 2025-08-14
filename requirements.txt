@@ -1,0 +1,13 @@
+# Rubik's Cube Solver Dependencies
+
+# Core visualization libraries
+matplotlib>=3.5.0
+plotly>=5.0.0
+numpy>=1.20.0
+
+# Animation and image export
+imageio>=2.9.0
+kaleido>=0.2.1
+
+# Optional: For better performance (recommended)
+pillow>=8.0.0
